@@ -1,0 +1,2 @@
+#!/bin/bash
+npx -y nodemon --quiet test/send.js

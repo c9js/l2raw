@@ -1,0 +1,8 @@
+{
+    "name": "l2raw",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "c9js/core"
+    },
+    "license": "MIT"
+}
